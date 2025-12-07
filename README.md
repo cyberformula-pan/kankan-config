@@ -1,2 +1,2 @@
-# tvbox-config
-TVBOX配置
+# kankan-config
+睇电视配置
