@@ -1,5 +1,4 @@
-{
-  "urls": [
+ "urls": [
     {
       "name": "饭太",
       "url": "http://www.饭太硬.com/tv"
@@ -56,6 +55,9 @@
       "name": "小盒子",
       "url": "http://xhztv.top/xhz"
     },
-
-  ]
+  {
+      "name": "OK",
+      "url": "https://10352.kstore.vip/ok"
+    }
+]
 }
